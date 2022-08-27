@@ -1,0 +1,23 @@
+Current leader key: Spacebar
+
+<Leader>cd = Set working directory to the directory of the current file
+<Leader>ce = Edit the init.lua file 
+<Leader>sl: Reload init.lua file
+
+Debug command cheat sheet:
+<Leader>dct = Start debugging
+<Leader>duf to display a floating window with details of the variables.
+<Leader>dtb to toggle a breakpoint.
+<Leader>dro to open the REPL.
+<Leader>dui to open the debug UI
+
+Telescope commands:
+F commands for find files:
+<Leader>ff = Find files
+<Leader>fh = Find recent files
+<Leader>? = Find commands
+
+S commands for searching in current file:
+<Leader>sb = Current buffer fuzzy find
+<Leader>sd = Grep string
+<Leader>sp = Live grep
